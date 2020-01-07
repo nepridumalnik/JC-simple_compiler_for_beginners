@@ -1,2 +1,2 @@
-# JC-simple_compiler_for_beginners
-JCompiler is a simple C++ compiler for beginners with examples
+# JC-simple_IDE_for_beginners
+JCompiler is a simple C++ IDE for beginners with examples
